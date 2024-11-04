@@ -21,3 +21,15 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Futebol',
+    'Quem é o  melhor jogador de futebol do mundo',
+    'Pelé'
+)
+
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
+)
